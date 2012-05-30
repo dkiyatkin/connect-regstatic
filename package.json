@@ -1,0 +1,33 @@
+{
+	"name": "connect-regstatic",
+	"description": "Connect middleware for static files",
+	"maintainers": [
+		{
+			"name": "Dmitriy Kiyatkin",
+			"web": "https://github.com/dkiyatkin/connect-regstatic"
+		}
+	],
+	"version": "0.0.1",
+	"keywords" : [
+		"connect-regstatic"
+	],
+	"repository": {
+		"type" : "git",
+		"url" : "git://github.com/dkiyatkin/connect-regstatic.git"
+	},
+	"engines": {
+		"node": ">=0.6.0"
+	},
+	"dependencies": {
+		"connect": ">=2.0.1"
+	},
+	"bugs": {
+		"url" : "http://github.com/dkiyatkin/connect-regstatic/issues"
+	},
+	"licenses" : [
+		{
+			"type": "MIT",
+			"url" : "http://github.com/dkiyatkin/connect-regstatic/raw/master/LICENSE"
+		}
+	]
+}
